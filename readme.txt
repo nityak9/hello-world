@@ -1,2 +1,1 @@
-hello this is nitya
-i am learning version history
+hello this is nitya
